@@ -1,6 +1,6 @@
 # Приложение:   LISTUSER-APP
 
-<img src="[https://github.com/Yurbol2014/img/blob/main/user-list-mobile.jpeg.png](https://github.com/Yurbol2014/img/blob/main/user-list-mobile.jpeg)" alt="user-list изображение">
+<img src='https://github.com/Yurbol2014/img/blob/main/user-list-mobile.jpeg' alt = " user-list изображение">
 
 
 ### Тестовое задание 
@@ -13,7 +13,7 @@
 И предоставить скрипт, который на чистой системе (или Windows или Ubuntu) будет SPA приложение разворачивать и запускать
 Код приложения и скрипт должны быть выложены на github.
 
-###КАК РАЗВЕРТЫВАТЬ ПРИЛОЖЕНИЕ:
+### КАК РАЗВЕРТЫВАТЬ ПРИЛОЖЕНИЕ:
 
 # Getting Started with Create React App
 
