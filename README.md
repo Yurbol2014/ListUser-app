@@ -1,3 +1,22 @@
+# Приложение:   LISTUSER-APP
+
+<img src= 'https://github.com/Yurbol2014/img/blob/main/user-list.png' alt = " user-list изображение">
+
+<img src='https://github.com/Yurbol2014/img/blob/main/user-list-mobile.jpeg' alt = " user-list изображение">
+
+
+### Тестовое задание 
+
+# Есть API пользователей https://retoolapi.dev/eqsQ4S/users
+Нужно написать SPA приложение, которое будет:
+·         Выводить список пользователей с пагинацией в 10
+·         Добавлять/изменять/удалять пользователей
+·         Фильтровать таблицу пользователей по загруженным данным (фильтрация инструментами фронта)
+И предоставить скрипт, который на чистой системе (или Windows или Ubuntu) будет SPA приложение разворачивать и запускать
+Код приложения и скрипт должны быть выложены на github.
+
+### КАК РАЗВЕРТЫВАТЬ ПРИЛОЖЕНИЕ:
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
