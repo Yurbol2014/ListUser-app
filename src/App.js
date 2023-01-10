@@ -49,6 +49,7 @@ const App = () => {
     const newItem = {
       id: uuidv4(),
       name,
+      access: false,
       lastName,
       birthDate,
       email,
